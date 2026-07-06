@@ -8,7 +8,7 @@ const stops = [
 
 export default function App() {
   return (
-    <div style={{ height: "99vh", width: "100vw" }}>
+    <div style={{ height: "100vh", width: "100vw" }}>
       <MapContainer
         center={[43.4723, -80.5449]}
         zoom={14}
