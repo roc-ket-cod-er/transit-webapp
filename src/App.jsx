@@ -1,10 +1,8 @@
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
+import { loadStops } from "./loadStops";
 
-const stops = [
-  { id: 1, name: "Stop A", lat: 43.4723, lng: -80.5449 },
-  { id: 2, name: "Stop B", lat: 43.4668, lng: -80.5164 },
-];
+const stops = loadStops();
 
 export default function App() {
   return (
