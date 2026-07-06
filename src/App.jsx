@@ -1,13 +1,21 @@
 import { useEffect, useState } from "react";
 import { MapContainer, TileLayer, Marker, Popup } from "react-leaflet";
-import { loadStops } from "./loadStops";
+import { loadGRTStops, loadGuelphTransitStops } from "./loadStops";
 
 export default function App() {
   const [stops, setStops] = useState([]);
+  const [stops2, setStops2] = useState([]);
 
   useEffect(() => {
-    loadStops().then((data) => {
+    loadGRTStops().then((data) => {
+      console.log(data.length);
+      console.log(data.slice(0, 5));
       setStops(data);
+    });
+    loadGuelphTransitStops().then((data) => {
+      console.log(data.length);
+      console.log(data.slice(0, 5));
+      setStops2(data);
     });
   }, []);
 
@@ -25,7 +33,17 @@ export default function App() {
 
         {stops.map((stop) => (
           <Marker
-            key={stop.id}
+            key={`${stop.id}-${stop.lat}-${stop.lng}`}
+            position={[stop.lat, stop.lng]}
+          >
+            <Popup>
+              {stop.name}
+            </Popup>
+          </Marker>
+        ))}
+        {stops2.map((stop) => (
+          <Marker
+            key={`${stop.id}-${stop.lat}-${stop.lng}`}
             position={[stop.lat, stop.lng]}
           >
             <Popup>
