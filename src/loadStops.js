@@ -6,7 +6,10 @@ export const transitAgencies = [
   "Stratford Transit",
   "GO Transit",
   "UP Express",
-  "TTC"
+  "TTC",
+  "MiWay",
+  "Brampton Transit",
+  "YRT"
 ];
 
 export async function loadStops() {
