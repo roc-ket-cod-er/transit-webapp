@@ -5,6 +5,7 @@ const transitAgencies = [
   "Guelph Transit",
   "Stratford Transit",
   "GO Transit",
+  "UP Express",
 ];
 
 export async function loadStops() {
