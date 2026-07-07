@@ -17,6 +17,9 @@ export const transitAgencies = [
   "London Transit CA",
   "Durham Transit",
   "Kingston Transit",
+  "OC Transpo",
+  "Transit Windsor",
+  "Barrie Transit",
 ];
 
 export async function loadStops() {
