@@ -26,7 +26,7 @@ export async function loadStops() {
 
 async function loadStopsForAgency(agency) {
   const path = `/gtfs/${agency}/stops.txt`;
-  const response = await fetch(path.toLowerCase().replace(' ', '-'));
+  const response = await fetch(path.toLowerCase().replaceAll(' ', '-'));
   const text = await response.text();
   const result = Papa.parse(text, {
     header: true,
