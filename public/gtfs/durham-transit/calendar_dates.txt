@@ -1,0 +1,15 @@
+service_id,date,exception_type
+Thursday,20260702,1
+Thursday,20260709,1
+Thursday,20260716,1
+Thursday,20260723,1
+Thursday,20260730,1
+Thursday,20260806,1
+Thursday,20260813,1
+Thursday,20260820,1
+Thursday,20260827,1
+Thursday,20260903,1
+Canada Day,20260701,1
+Weekday_merged_94434,20260701,2
+Weekday_merged_94437,20260518,2
+SatSun_merged_94438,20260518,1

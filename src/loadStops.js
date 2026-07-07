@@ -13,7 +13,10 @@ export const transitAgencies = [
   "HSR",
   "Oakville Transit",
   "Burlington Transit",
-  "Niagara Transit"
+  "Niagara Transit",
+  "London Transit",
+  "Durhan Transit",
+  "Kingston Transit",
 ];
 
 export async function loadStops() {

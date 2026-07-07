@@ -1,0 +1,9 @@
+service_id,start_date,end_date,monday,tuesday,wednesday,thursday,friday,saturday,sunday
+Overnight_merged_94433,20260629,20260906,1,1,1,1,1,1,1
+Thursday,20260629,20260906,0,0,0,0,0,0,0
+Canada Day,20260629,20260906,0,0,0,0,0,0,0
+Weekday_merged_94434,20260629,20260906,1,1,1,1,1,0,0
+SatSun_merged_94435,20260629,20260906,0,0,0,0,0,1,1
+Overnight_merged_94436,20260413,20260628,1,1,1,1,1,1,1
+Weekday_merged_94437,20260413,20260628,1,1,1,1,1,0,0
+SatSun_merged_94438,20260413,20260628,0,0,0,0,0,1,1
