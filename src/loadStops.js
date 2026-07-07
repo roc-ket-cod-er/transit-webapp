@@ -9,7 +9,11 @@ export const transitAgencies = [
   "TTC",
   "MiWay",
   "Brampton Transit",
-  "YRT"
+  "YRT",
+  "HSR",
+  "Oakville Transit",
+  "Burlington Transit",
+  "Niagara Transit"
 ];
 
 export async function loadStops() {
