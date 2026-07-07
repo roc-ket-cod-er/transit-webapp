@@ -1,0 +1,287 @@
+﻿stop_id,stop_name,stop_lat,stop_lon,wheelchair_boarding
+1000,Transit Office and Garage,43.359116,-80.997351,0
+1001,Transit Terminal,43.365741,-80.980051,0
+1002,St. David @ Argyle,43.36574,-80.98228,0
+1003,St. David @ Wellington,43.36703,-80.98505,0
+1004,Wellington @ Cambria,43.36529,-80.98668,0
+1005,Wellington @ West Gore,43.3639,-80.98788,0
+1006,Hamlet School,43.36383,-80.99076,0
+1007,Monteith @ McFarlane,43.36124,-80.9938,0
+1008,Johnson Electric,43.36051,-80.99626,0
+1009,Monteith @ Lorne,43.358293,-81.000144,0
+1010,Omex Industries,43.359915,-81.004803,0
+1011,Wright @ Scotia Bank,43.359623,-81.007523,0
+1012,Schaeffler Industries,43.356955,-81.009803,0
+1013,Dynamig Industries,43.354066,-81.012286,0
+1014,Southwestern Veterinary,43.34865,-81.0169,0
+1015,Trillium Hatchery,43.346231,-81.019132,0
+1016,CSN Collision,43.34626,-81.020618,0
+1017,Hyashi Industries,43.34359,-81.01212,0
+1018,F.I.O. Industries,43.34482,-81.01103,0
+1019,C.R.P. Industries,43.346837,-81.009364,0
+1020,Dunn @ Packham,43.349623,-81.007053,0
+1021,Packham @ Erie,43.348239,-81.003709,0
+1022,Stricklands,43.34961,-81.00123,0
+1023,KIA Motors,43.351168,-80.999832,0
+1024,Ford Lane @ Midas,43.35282,-80.9979,0
+1025,Service Canada,43.35348,-80.996066,0
+1026,Railway @ Lorne,43.35481,-80.99376,0
+1027,Army Navy Air Force,43.353647,-80.991197,0
+1028,Tirecraft Shop,43.35175,-80.990122,0
+1029,U.P.S.,43.35171,-80.98664,0
+1030,Humane Society,43.351676,-80.982811,0
+1031,Griffith @ Scott,43.352111,-80.977302,0
+1032,Home @ Lorne,43.354342,-80.975946,0
+1033,Home @ Whitelock,43.357856,-80.977818,0
+1034,Home @ Brydges,43.359441,-80.978771,0
+1035,Home @ Grant,43.361374,-80.979857,0
+1036,Home @ West Gore,43.36257,-80.98051,0
+1037,Anne Hathaway Residence,43.361946,-80.977419,0
+1039,Taylor @ East Gore,43.361967,-80.973703,0
+1040,Guelph @ Nile,43.36399,-80.97666,0
+1041,Downie @ T.D. Bank,43.37046,-80.98204,0
+1042,St. Joseph's Catholic Church,43.373517,-80.98688,0
+1043,Huron @ St. Vincent North,43.373963,-80.988236,0
+1044,Huron @ John,43.375205,-80.990561,0
+1045,Huron @ Avondale,43.376497,-80.993507,0
+1046,Huntingdon @ Hibernia,43.37784,-80.994927,0
+1047,Hibernia @ Forman,43.37909,-80.997274,0
+1048,Forman @ Crawford Walkway,43.380433,-80.996398,0
+1049,Forman @ Britannia,43.381595,-80.995216,0
+1050,Stratford District Secondary,43.384131,-80.994681,0
+1051,St. Mike's Secondary,43.385489,-80.99586,0
+1052,Oakdale @ Matilda,43.38539,-80.997211,0
+1053,Oakdale @ O' Loane,43.38651,-80.99943,0
+1054,O'Loane Condo Walkway,43.384992,-81.001053,0
+1055,No Frills,43.38199,-81.003581,0
+1056,O' Loane @ Riddell,43.37899,-81.00612,0
+1057,O' Loane @ Brown,43.37635,-81.00834,0
+1058,Cody @ Sir Adam Beck,43.369846,-81.012881,0
+1059,Sir Adam Beck @ Vanevery Way,43.370042,-81.009457,0
+1060,Danecker @ O' Loane,43.372352,-81.011128,0
+1061,Sobeys,43.37935,-81.00563,0
+1062,Stratford Cinemas,43.38022,-81.00211,0
+1063,Shoppers Drug Mart,43.37942,-81.00245,0
+1065,Douglas @ Franklin,43.377793,-81.002384,0
+1066,Douglas @ Forman,43.377003,-80.999473,0
+1067,61 Cawston,43.375632,-80.999973,0
+1068,25 Cawston,43.375129,-80.998976,0
+1069,Huntingdon @ Avon,43.375069,-80.997262,0
+1070,Huntingdon @ Huron,43.37723,-80.995457,0
+1071,Huron @ Avondale,43.376383,-80.99361,0
+1072,Huron @ John,43.375552,-80.99172,0
+1073,Huron @ St.Vincent North,43.374059,-80.988516,0
+1074,Huron @ Huron Condo's,43.373306,-80.986707,0
+1075,Shakespearean Gardens,43.371984,-80.984784,0
+1076,City Hall,43.369862,-80.98181,0
+1077,Y.M.C.A.,43.367071,-80.98032,0
+1078,Huron @ Mornington,43.37282,-80.98521,0
+1079,Holy Trinity Anglican Church,43.373948,-80.984688,0
+1080,Caledonia @ Jones,43.375011,-80.986076,0
+1081,Caledonia @ Mercer,43.37593,-80.98801,0
+1082,John @ Charles,43.377571,-80.989164,0
+1084,200 and 230 Britannia Street,43.37912,-80.98915,0
+1085,Britannia @ Forman,43.381626,-80.994814,0
+1086,Forman @ Oakdale,43.383756,-80.99342,0
+1087,Forman @ Bradshaw,43.38641,-80.99132,0
+1088,Fraser @ Robertson,43.38913,-80.99089,0
+1089,Agriplex,43.384915,-80.984645,0
+1090,Rotary Complex,43.386082,-80.983385,0
+1091,McCarthy Place,43.386224,-80.978778,0
+1092,McCarthy @ Deacon,43.385994,-80.976133,0
+1093,McCarthy @ Greenwood,43.38515,-80.97431,0
+1094,Graff @ Kemp,43.384332,-80.967527,0
+1095,Kemp @ Simpson,43.384984,-80.96512,0
+1096,Kemp @ Kappele,43.38685,-80.96601,0
+1097,Kemp @ Graff,43.386672,-80.967674,0
+1098,Graff @ Mornington,43.387098,-80.969023,0
+1099,Mornington @ McCarthy,43.384535,-80.971905,0
+1100,Greenwood @ Campbell,43.384338,-80.974594,0
+1101,Greenwood @ Nethercott,43.38321,-80.97561,0
+1102,Greenwood @ Kenner,43.381869,-80.977362,0
+1103,Greenwood @ Norwood,43.383177,-80.980896,0
+1104,Greenwood @ Waddell,43.38401,-80.98253,0
+1105,Warwick @ Sargint,43.382687,-80.983475,0
+1106,Warwick @ Arthur,43.381613,-80.982064,0
+1107,Glastonbury @ Warwick,43.380913,-80.981023,0
+1108,Glastonbury @ Princess,43.38006,-80.982557,0
+1109,Princess @ Earl,43.37883,-80.981715,0
+1110,Princess @ Mornington,43.377616,-80.978964,0
+1111,Mornington @ Duke,43.37707,-80.9799,0
+1112,Waterloo @ Elizabeth,43.3757,-80.98025,0
+1113,Veterans Drive,43.373501,-80.97974,0
+1114,Waterloo @ Ontario,43.370956,-80.979878,0
+1115,Waterloo @ George,43.36932,-80.97986,0
+1116,University of Waterloo,43.36826,-80.98206,0
+1117,St.Patrick @ Church,43.369689,-80.985282,0
+1118,St.Patrick @ Birmingham,43.370146,-80.986423,0
+1119,Birmingham @ Daly,43.368595,-80.987874,0
+1120,Birmingham @ Cambria,43.366715,-80.989575,0
+1121,Cambria @ St. Vincent South,43.36791,-80.99273,0
+1122,St. Vincent South @ Young,43.36718,-80.99422,0
+1123,West Gore @ Hospital,43.36719,-80.99676,0
+1124,Spruce Lodge,43.36799,-81.001503,0
+1125,West Gore @ John,43.367588,-80.998116,0
+1126,West Gore @ McCulloch,43.365669,-80.993639,0
+1127,Hamlet School,43.36437,-80.99063,0
+1128,Jenny Trout Centre,43.363393,-80.989765,0
+1129,Erie @ Monteith,43.361863,-80.990992,0
+1130,Erie @ Whyte,43.360431,-80.992327,0
+1131,Erie @ Corcoran,43.3582,-80.99408,0
+1132,The Local,43.357061,-80.995137,0
+1133,Erie @  Lorne,43.356234,-80.995843,0
+1134,Lorne @ Linton,43.357172,-80.998871,0
+1135,St.Vincent South @ Patterson,43.35953,-81.00066,0
+1136,St.Vincent South @ Patricia,43.36162,-80.99886,0
+1137,St.Vincent South @ McFarlane,43.363056,-80.997535,0
+1138,St.Vincent South @ Easson,43.36434,-80.996491,0
+1139,Easson @ John,43.366053,-80.998908,0
+1140,John @ Dingman,43.365431,-81.000943,0
+1141,Hamlet Estates,43.365863,-81.003105,0
+1142,Freeland @ Killoran,43.365503,-81.006175,0
+1143,Freeland @ McQueen,43.365953,-81.008178,0
+1144,Freeland @ Athlone,43.364852,-81.010814,0
+1145,McGregor @ Sprung,43.36349,-81.00816,0
+1146,Queensland @ Barron,43.362246,-81.006937,0
+1147,Lorne @ Wright Blvd.,43.36057,-81.00652,0
+1148,Cleaver Brooks,43.35843,-81.00171,0
+1149,Bosco Pool,43.356658,-80.995251,0
+1151,Erie @ West Gore,43.36311,-80.98971,0
+1152,Erie @ Cambria,43.365401,-80.987815,0
+1153,Joes Diner,43.368516,-80.985128,0
+1154,Wellington @ Market Square,43.369505,-80.98267,0
+1155,Via Station,43.364724,-80.975385,0
+1156,Front @ Milton,43.365469,-80.973472,0
+1157,Regent @ Queen,43.365051,-80.970034,0
+1158,Regent @ King,43.36533,-80.966389,0
+1159,Frederick @ Romeo,43.365152,-80.963377,0
+1160,Romeo @  Park,43.3622,-80.963346,0
+1161,Romeo @ Norfolk,43.360443,-80.963208,0
+1162,Municipal Golf Course,43.36031,-80.96681,0
+1163,Norfolk @ Borden,43.36035,-80.96881,0
+1164,Morgan @ Eddison,43.355823,-80.971372,0
+1165,Eddison @ Morgan,43.354279,-80.971062,0
+1166,Morgan @ Lorne,43.353156,-80.970609,0
+1167,The Brick,43.35339,-80.97249,0
+1168,Jubilee Church,43.355451,-80.973612,0
+1169,Splash Pad,43.357625,-80.974926,0
+1290,Anne Hathaway School,43.357848,-80.971139,0
+1170,Essex @ Elgin,43.35868,-80.97086,0
+1172,Borden @ Norfolk,43.360171,-80.969298,0
+1173,Norfolk @ Laurier,43.360317,-80.97134,0
+1174,Foodland,43.359472,-80.976159,0
+1175,Whitelock @ Downie,43.358555,-80.975785,0
+1176,Whitelock @ Home,43.358075,-80.977956,0
+1177,Home @ Brydges,43.359502,-80.978788,0
+1178,Brydges @ Mowat,43.359395,-80.98095,0
+1179,Brydges @ Louise,43.358805,-80.983386,0
+1180,Louise @ Whitelock,43.356683,-80.982424,0
+1181,Whitelock @ Oak,43.356023,-80.984963,0
+1182,Oak @ Brydges,43.358091,-80.986134,0
+1183,Oak @ Dufferin,43.35938,-80.98684,0
+1184,Dufferin @ Walnut,43.35834,-80.98799,0
+1185,Dufferin Condo's,43.35674,-80.98935,0
+1186,Maple @ Dufferin,43.35547,-80.98987,0
+1187,Maple @ Wilson,43.355167,-80.986145,0
+1188,Maple @ Louise,43.355019,-80.981444,0
+1189,Maple @ Wyat,43.354934,-80.979135,0
+1190,Maple @ Home,43.35511,-80.9766,0
+1191,Player @ Downie,43.356646,-80.974745,0
+1192,Foodland,43.359554,-80.976061,0
+1193,Downie @ East Gore,43.36264,-80.9777,0
+1291,Waterloo @ Rebecca,43.368835,-80.979812,0
+1195,Queens Hotel,43.3711,-80.97976,0
+1196,Shoppers Drug Mart,43.37132,-80.97757,0
+1197,Ontario @ Front,43.37127,-80.973692,0
+1198,Ontario @ Queen,43.371158,-80.970159,0
+1199,Ontario @ King,43.371079,-80.966744,0
+1200,Ontario @ Romeo,43.371063,-80.963324,0
+1201,Gordon @ Ontario,43.37137,-80.96002,0
+1202,Gordon @ Willow,43.37227,-80.95998,0
+1203,Willow @ Burritt,43.37258,-80.95837,0
+1204,Willow @ Pleasant,43.372546,-80.956544,0
+1205,Willow @ Walsh,43.372774,-80.953879,0
+1207,Willow @ Babb,43.372875,-80.951609,0
+1208,Willow Street Apartments,43.37287,-80.94935,0
+1209,Willow @ Devon,43.374761,-80.948962,0
+1210,Devon @ Hickory,43.374906,-80.951003,0
+1211,Devon @ Hickory and Pleasant,43.3748,-80.95393,0
+1212,Devon @  Pleasant,43.37477,-80.95694,0
+1213,Devon @ McDonald,43.374836,-80.959383,0
+1214,Devon @ Canterbury,43.374774,-80.961167,0
+1215,Devon @ Romeo,43.37491,-80.962895,0
+1216,Country Club,43.37878,-80.963048,0
+1217,Romeo @ Kellys Lane,43.38041,-80.96308,0
+1218,Romeo @ Long,43.382427,-80.963022,0
+1219,Northpoint Estates,43.38417,-80.9631,0
+1220,Romeo @ Vivian,43.38848,-80.96306,0
+1221,Vivian @ Harrison,43.389172,-80.960459,0
+1222,Fairfield Walkway,43.387935,-80.958566,0
+1223,Fairfield @ McCarthy,43.384589,-80.958617,0
+1224,McCarthy @ Romeo,43.38355,-80.96261,0
+1225,McCarthy @ Graff,43.38369,-80.967301,0
+1226,Bedford School,43.38271,-80.973306,0
+1227,Glendon @ Bedford,43.380711,-80.972522,0
+1228,Glendon @ Graff,43.380725,-80.968239,0
+1229,Dawson @ Diana,43.38057,-80.96596,0
+1230,River Garden Inn,43.378705,-80.96409,0
+1231,Romeo @ River Garden Inn,43.377483,-80.963246,0
+1232,Stratford Gallery,43.375547,-80.963287,0
+1233,Romeo @ Queens Court,43.373038,-80.963206,0
+1234,Arden Park Hotel,43.371587,-80.963231,0
+1235,Brunswick @ Peter,43.369478,-80.964152,0
+1236,Brunswick @ King,43.36953,-80.96687,0
+1237,Brunswick @ Queen,43.36958,-80.97027,0
+1238,Brunswick @ Front,43.36965,-80.97366,0
+1239,Brunswick @ Nile,43.36972,-80.97697,0
+1240,Brunswick @ Waterloo,43.36978,-80.97936,0
+1242,Douro @ Nile,43.36736,-80.97645,0
+1243,Douro @ Front,43.36731,-80.97375,0
+1244,Douro @ Well,43.367219,-80.971001,0
+1245,Douro @ Trinity,43.36723,-80.96889,0
+1246,Douro @ King,43.36718,-80.96656,0
+1247,Douro @ Romeo,43.36706,-80.963885,0
+1248,Romeo @ Oxford,43.368429,-80.963087,0
+1249,Oxford Street Condos,43.3685,-80.96033,0
+1250,Oxford @ Burritt,43.368396,-80.957944,0
+1251,Stratford Medical Centre,43.367086,-80.961395,0
+1252,E.L.C. Community Living,43.36522,-80.961905,0
+1253,Frederick @ Burritt,43.365183,-80.957995,0
+1254,Burritt @ Douro,43.366821,-80.957659,0
+1255,617 Douro Street,43.36691,-80.95387,0
+1256,Cooper Standard,43.36677,-80.95156,0
+1258,Gateway Plaza,43.37093,-80.95244,0
+1259,Stratford Mall,43.369501,-80.948112,0
+1260,Mary Browns,43.37078,-80.94629,0
+1261,Canadian Tire Gas Bar,43.37071,-80.9439,0
+1262,Rodeway Inn Festival,43.370848,-80.941442,0
+1263,McDonalds Restaurant,43.370823,-80.944429,0
+1264,Crabby Joe's Restaurant,43.37089,-80.94709,0
+1265,River Dental,43.371787,-80.948235,0
+1266,Avonwood @ Devon,43.372867,-80.946498,0
+1267,Avonwood @ Devon,43.374088,-80.944719,0
+1268,Devon @ Crehan,43.374907,-80.947126,0
+1269,C.H. Meier @ Avonwood,43.373389,-80.94828,0
+1270,Walmart,43.370908,-80.949766,0
+1271,Stratford Motor Products,43.37102,-80.95415,0
+1272,Ontario @ Burritt,43.370983,-80.957801,0
+1273,Dairy Queen,43.371149,-80.962509,0
+1274,Ontario @ Parkview,43.371224,-80.966643,0
+1275,Ontario @ Queen,43.371298,-80.970365,0
+1276,Ontario @ Front,43.371341,-80.973132,0
+1277,Ontario @ Nile,43.371401,-80.976451,0
+1280,McCarthy @ Mornington,43.384226,-80.972304,0
+1281,Taylor @ Norfolk,43.360399,-80.97369,0
+1283,Dance Studio,43.360915,-80.991544,0
+1299,McCarthy @ Mornington,43.38405,-80.97082,0
+1301,Contract Framing,43.34998,-81.0158,0
+1355,Borden Apartments,43.35871,-80.969483,0
+1356,Woodland Towers,43.36862,-81.00013,0
+1357,Fraser @ McCarthy,43.39046,-80.98973,0
+1358,O'Loane Condos,43.37394,-81.01032,0
+1505,Bradshaw @ McCarthy,43.38817,-80.98559,0
+1700,Chronoharp,43.36985,-80.98262,0
+1701,Birds of a Feather and Shrooms,43.37535,-80.97111,0
+1702,Heart,43.37279,-80.98095,0
+1703,Lightwall,43.37193,-80.9826,0
+1359,789 Erie Street,43.35273,-80.9965,0
