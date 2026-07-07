@@ -23,15 +23,15 @@ export const transitAgencies = [
 ];
 
 export async function loadStops() {
-  const allStops = [];
+  const results = await Promise.all(
+    transitAgencies.map(async (agency) => {
+      const stops = await loadStopsForAgency(agency);
+      console.log(`Loaded ${stops.length} stops for ${agency}`);
+      return stops;
+    })
+  );
 
-  for (const agency of transitAgencies) {
-    const stops = await loadStopsForAgency(agency);
-    allStops.push(...stops);
-    console.log(`Loaded ${stops.length} stops for ${agency}`);
-  }
-
-  return allStops;
+  return results.flat();
 }
 
 async function loadStopsForAgency(agency) {
