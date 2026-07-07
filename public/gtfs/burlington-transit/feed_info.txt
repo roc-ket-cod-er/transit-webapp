@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
+Burlington,https://www.burlingtontransit.ca/en/index.aspx,en,20260628,20260822

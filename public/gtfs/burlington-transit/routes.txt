@@ -1,0 +1,16 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+351,1,"Plains-Fairview",,3,,890A07,FFFFFF
+352,2,"Brant",,3,,890A07,FFFFFF
+353,3,"Guelph",,3,,890A07,FFFFFF
+354,4,"Central",,3,,00447C,FFFFFF
+356,6,"Headon",,3,,00447C,FFFFFF
+3510,10,"New-Maple",,3,,890A07,FFFFFF
+3511,11,"Sutton-Alton",,3,,890A07,FFFFFF
+3512,12,"Upper Middle",,3,,00447C,FFFFFF
+3525,25,"Walkers",,3,,890A07,FFFFFF
+3550,50,"Burlington South",,3,,2E84AA,FFFFFF
+3551,51,"Burlington Northeast",,3,,2E84AA,FFFFFF
+3552,52,"Burlington Northwest",,3,,2E84AA,FFFFFF
+3580,80,"Harvester",,3,,00447C,FFFFFF
+3581,81,"North Service",,3,,00447C,FFFFFF
+3587,87,"North Service-Aldershot",,3,,00447C,FFFFFF

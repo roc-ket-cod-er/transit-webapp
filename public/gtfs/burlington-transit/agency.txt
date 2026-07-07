@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+Burlington,Burlington Transit,https://www.burlingtontransit.ca/en/index.aspx,America/Toronto,en,905-639-0550,https://www.burlingtontransit.ca/en/fares/Fares.aspx,contactbt@burlington.ca
