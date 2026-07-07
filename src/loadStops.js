@@ -14,8 +14,8 @@ export const transitAgencies = [
   "Oakville Transit",
   "Burlington Transit",
   "Niagara Transit",
-  "London Transit",
-  "Durhan Transit",
+  "London Transit CA",
+  "Durham Transit",
   "Kingston Transit",
 ];
 
