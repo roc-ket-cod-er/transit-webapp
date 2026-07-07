@@ -36,11 +36,11 @@ export default function App() {
         />
         {stops.map((stop) => (
           <Marker
-            key={`${stop.id}-${stop.lat}-${stop.lng}`}
+            key={`${stop.id} @ (${stop.lat}, ${stop.lng}) ${stop.agency}`}
             position={[stop.lat, stop.lng]}
           >
             <Popup>
-              {stop.name}
+              {stop.name} ({stop.agency})
             </Popup>
           </Marker>
         ))}

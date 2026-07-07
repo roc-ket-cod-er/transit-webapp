@@ -6,6 +6,7 @@ const transitAgencies = [
   "Stratford Transit",
   "GO Transit",
   "UP Express",
+  "TTC"
 ];
 
 export async function loadStops() {
@@ -32,6 +33,7 @@ async function loadStopsForAgency(agency) {
   return result.data
     .filter((stop) => stop.stop_id && stop.stop_lat && stop.stop_lon)
     .map((stop) => ({
+      agency: agency,
       id: stop.stop_id,
       name: stop.stop_name,
       lat: Number(stop.stop_lat),
