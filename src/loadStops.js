@@ -1,6 +1,6 @@
 import Papa from "papaparse";
 
-const transitAgencies = [
+export const transitAgencies = [
   "GRT",
   "Guelph Transit",
   "Stratford Transit",
