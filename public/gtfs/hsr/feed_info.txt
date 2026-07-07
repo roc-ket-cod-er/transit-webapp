@@ -1,0 +1,2 @@
+feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version
+"HSR","https://www.hamilton.ca/hsr","EN","20260426","20260905","2026 Spring & 2026 Summer Merged"
