@@ -3,7 +3,8 @@ import Papa from "papaparse";
 const transitAgencies = [
   "GRT",
   "Guelph Transit",
-  "Stratford Transit"
+  "Stratford Transit",
+  "GO Transit",
 ];
 
 export async function loadStops() {
