@@ -20,6 +20,7 @@ export const transitAgencies = [
   "OC Transpo",
   "Transit Windsor",
   "Barrie Transit",
+  "Via Rail"
 ];
 
 export async function loadStops() {
